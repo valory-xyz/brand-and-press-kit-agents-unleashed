@@ -3,7 +3,7 @@ This Press Kit summarizes our Brand Guidelines (inc. logos) and Information abou
 
 ![styleguide](https://github.com/valory-xyz/press-kit/assets/106149667/23a48530-3152-443d-bd63-b9b3c5021828) ^to be updated with new image
 
-## Valory Brand Guidelines 
+## Brand Guidelines 
 
 The "Olas" & "Autonolas" names, logos, brands, and other trademarks, are property of Olas DAO (aka Autonolas DAO^), considered Offerings subject to [our Terms](https://olas.network/disclaimer), meaning you may use them only as described therein. *apart from Valory owning Olas name I'll put something here and take language from our terms*
 
