@@ -5,8 +5,8 @@ This Press Kit summarizes the Olas DAO's Brand Guidelines (inc. logos) and Infor
 
 ## Brand Guidelines 
 
-The "Olas" & "Autonolas" names, logos, brands, and other trademarks, are property of Olas DAO (aka Autonolas DAO^), protected by copyright, trademark, patent, trade secret
-and other intellectual property or proprietary rights laws and may only be used per the Usage Terms (see below). These guidelines are intended to help people interacting with the Olas brand to understand how to use and display the Olas DAO's trademarks and copyrighted work in their own assets and materials.
+The "Olas" & "Autonolas" names, logos, brands, and other trademarks, are property of Olas DAO (aka Autonolas DAO^) or its members, protected by copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws and may only be used per the Usage Terms (see below). These guidelines are designed to align with the [Olas DAO Constitution](https://gateway.autonolas.tech/ipfs/bafybeibrhz6hnxsxcbv7dkzerq4chssotexb276pidzwclbytzj7m4t47u) and can be updated from time to time by the Olas DAO as required. 
+These guidelines are intended to help people interacting with the Olas brand to understand how to use and display the Olas DAO's trademarks and copyrighted work in their own assets and materials.
 
 ^Autonolas is also known as Olas, for short.
 
