@@ -1,5 +1,5 @@
 # press-kit-olas
-This Press Kit summarizes the Olas DAO's Brand Guidelines (inc. logos) and Information about Olas (formerly known as Autonolas, e.g. for Press Releases)
+This Press Kit summarizes the Olas DAO's Brand Guidelines (inc. logos) and Information about Olas (also known as Autonolas, e.g. for Press Releases)
 
 ![Olas Brand](https://github.com/contentwillvary/press-kit-olas/assets/106149667/317e54ea-5bc7-4e07-ad35-04c64e332314)
 
@@ -14,7 +14,7 @@ and other intellectual property or proprietary rights laws and may only be used 
 
 Do:
 * Link to [olas.network](https://olas.network) in articles, blog posts or other media mentions describing Olas' own work
-* Publicly claim only relationships to the Olas DAO itself that are reflected in an [on-chain vote](https://boardroom.io/autonolas/overview) or [off-chain vote](https://snapshot.org/#/autonolas.eth), expressed as they are expressed therein. Request DAO contributors' written approval to publicly mention an existing relationship between you and them, e.g. a partnership, sponsorship, or grant program. 
+* Publicly claim only relationships to the Olas DAO itself that have been recorded in an [on-chain vote](https://boardroom.io/autonolas/overview) or [off-chain vote](https://snapshot.org/#/autonolas.eth), describing these relationships as they are expressed therein. Request DAO contributors' written approval prior to publicly mentioning an existing relationship between you and them, e.g. a partnership, sponsorship, or grant program. 
 * Use the specific language used in writing by the DAO in an on/off-chain vote and by DAO contributors regarding the relationship, e.g. 'we have received a grant from Valory, co-creators of Olas' or 'we are sponsoring an event with [name here], an Olas founding member'.
 * Those building on Olas must use descriptive phrases that make it clear your product is developed on Olas technology (“powered by” is preferred, but “built on” can also be used). Avoid phrases that imply an official partnership with Olas (“built with”, “developed with”, “partnered with”).
 Your company or product name should appear first, followed by Olas and the autonomous service or component name. Using 'Olas' in product or app names is prohibited because it confuses end users, e.g. 'OlasBots', etc.
@@ -93,8 +93,7 @@ When mentioning the Olas DAO or its members or contributors in your press materi
 
 ### Key information
 #### Introduction
-* Context: Olas is the network for generating & co-owning autonomous agent economies, based on cutting-edge decentralized autonomous agent technology. 
-* Mission: Established in 2021, Olas' mission is to enable anyone to generate swarms of autonomous agents and grow them into entire economies, coordinated by the OLAS token.
+* Context: Olas is Crypto's ocean of services. One single network for all the stuff that makes crypto work. Coordinated by the OLAS token and built on cutting edge, autonomous agent technology.Olas is the network for generating & co-owning autonomous agent economies, based on cutting-edge decentralized autonomous agent technology. 
 * Background: Olas consists of the composable [Olas Stack](https://olas.network/build) for developing on Olas and the [Olas Protocol](protocol.olas.network) incentivizing their creation and decentralized operation. Together this architecture works to grow code and capital in tandem via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding), [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md), and [Olas Staking using Proof of Active Agent (PoAA)](https://staking.olas.network/). Olas has already given rise to a growing ocean of services, including [Olas Predict](https://olas.network/services/prediction-agents), agents that are predicting the future and leading the charge of Olas agents [taking over Gnosis Chain and beyond](https://dune.com/adrian0x/autonolas-ecosystem-activity). Since 'Olas' means 'waves' in Spanish, it is sometimes referred to as the 'ocean of services' 🌊.
 * Crypto x AI: Olas is perfect for combining crypto and AI, since autonomous services built using Olas can run complex logic in a decentralized manner, interacting with on- and off-chain data autonomously and continuously. For novel use cases check out [olas.network](https://olas.network/). 
 
