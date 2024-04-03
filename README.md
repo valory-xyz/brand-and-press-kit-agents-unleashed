@@ -1,4 +1,4 @@
-# olas-brand-and-press-kit
+# Olas Brand and Press Kit
 This Olas Brand and Press Kit summarizes the Olas DAO's Brand Guidelines (inc. use of language and assets) and Information about Olas, also known as Autonolas (e.g. for Press Releases).
 
 ![Olas Brand](https://github.com/contentwillvary/brand-and-press-kit-olas/assets/106149667/8f65fd6d-f571-45f4-a843-2e6f1e75482c)
