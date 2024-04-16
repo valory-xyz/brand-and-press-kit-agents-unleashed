@@ -14,7 +14,7 @@ These guidelines are intended to help people interacting with the Olas brand to 
 ## Language
 
 Do:
-* Link to [olas.network](https://olas.network) in articles, blog posts or other media mentions describing Olas' own work
+* Link to [olas.network](https://olas.network) in articles, blog posts or other media mentions describing Olas' own work.
 * Publicly claim only relationships to the Olas DAO itself that have been recorded in an [on-chain vote](https://boardroom.io/autonolas/overview) or [off-chain vote](https://snapshot.org/#/autonolas.eth), describing these relationships as they are expressed therein. Request DAO contributors' written approval prior to publicly mentioning an existing relationship between you and them, e.g. a partnership, sponsorship, or grant program. 
 * Use the specific language used in writing by the DAO in an on/off-chain vote and by DAO contributors regarding the relationship, e.g. 'we have received a grant from Valory, co-creators of Olas' or 'we are sponsoring an event with [name here], an Olas founding member'.
 * Those building on Olas must use descriptive phrases that make it clear your product is developed on Olas technology (“powered by” is preferred, but “built on” can also be used). Avoid phrases that imply an official partnership with Olas (“built with”, “developed with”, “partnered with”).
@@ -66,7 +66,7 @@ By using these Badges you agree to the Olas DAO's Usage Terms (see below).
 [Download the Powered by Olas badges here](https://github.com/contentwillvary/press-kit-olas/files/14792945/powered_by_olas_badges.zip)
 
 ### Logos 
-By using the Olas DAO's Logos you are agreeing to the its Usage Terms (see below) 
+By using the Olas DAO's Logos you are agreeing to the its Usage Terms (see below).
 * [Download the logos here](https://drive.google.com/drive/folders/1mQqehTDhwASh0o7GvGi4s_NNJbyal_Ya?usp=drive_link).
 
 | Do | Do not | 
@@ -94,9 +94,14 @@ When mentioning the Olas DAO or its members or contributors in your press materi
 
 ### Key information
 #### Introduction
-* Context: Olas is Crypto's ocean of services. One single network for all the stuff that makes crypto work. Coordinated by the OLAS token and built on cutting edge, autonomous agent technology.
-* Background: Olas consists of the composable [Olas Stack](https://olas.network/stack) for developing on Olas and the [Olas Protocol](https://olas.network/protocol) incentivizing their creation and decentralized operation. Together this architecture works to grow code and capital in tandem via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding), [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md), and [Olas Staking using Proof of Active Agent (PoAA)](https://staking.olas.network/). Olas has already given rise to a growing ocean of services, including [Olas Predict](https://olas.network/services/prediction-agents), agents that are predicting the future and leading the charge of Olas agents [taking over Gnosis Chain and beyond](https://dune.com/adrian0x/autonolas-ecosystem-activity). Since 'Olas' means 'waves' in Spanish, it is sometimes referred to as the 'ocean of services' 🌊.
-* Crypto x AI: Olas is perfect for combining crypto and AI, since autonomous services built using Olas can run complex logic in a decentralized manner, interacting with on- and off-chain data autonomously and continuously. For novel use cases check out [olas.network](https://olas.network/). 
+* Summary: Olas is the network/platform^^ for co-owning AI. Olas enables everyone to own a share of AI, specifically autonomous agents. One of the first Crypto x AI projects, founded in 2021, Olas offers the composable [Olas Stack](https://olas.network/stack) for developing autonomous AI agents, and the [Olas Protocol](https://olas.network/protocol) for incentivizing their creation and co-ownership. Olas' mission is to incentivize and coordinate different parties to launch autonomous agents that form entire AI economies serving all humans. Olas is giving rise to agent economies across major blockchains with [over 500,000 transaction and counting](https://dune.com/adrian0x/autonolas-ecosystem-activity). In [Olas Predict](https://olas.network/services/prediction-agents), AI agents predict the future, using state-of-the-art AI models, then apply their predictions to on-chain markets. Learn more at [olas.network](https://olas.network). 
+
+* More on the Olas Protocol: Olas Protocol grows code and capital via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding) and [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), and [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md). Agent operators are incentivized via a unique blend of Proof of Work and Proof of Stake: [Olas Staking, using Proof of Active Agent (PoAA)](https://staking.olas.network/).
+* More on the Olas Stack: Olas Stack is perfect for combining crypto and AI, autonomous services built using Olas can run decentralized, complex logic, off-chain whilst interacting with on- and off-chain data autonomously and continuously.
+* More on the Olas ecosystem: The Olas ecosystem boasts more than 430 services, including collaborations with notable projects such as [Gnosis Chain, Celo, Solana, Balancer, Ceramic, DeFi Wonderland, and others](https://olas.network/#builders). 
+* More on the name: Since 'Olas' means 'waves' in Spanish, it is sometimes known as 'crypto's ocean of services' 🌊.
+
+^^ 'Network' tends to be used for a web3 audience, and 'platform' for a web2 audience.
 
 #### Useful links & statistics
 * [Olas](http://olas.network)
