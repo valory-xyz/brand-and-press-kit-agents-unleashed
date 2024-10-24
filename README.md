@@ -127,7 +127,8 @@ The network/platform^^ for co-owning AI. Olas enables everyone to own a share of
      * [Weekly](https://x.com/autonolas/status/1676576697863507968)
      * Quarterly (coming soon)
 ##### Token links
-   * [Main resource](https://olas.network/olas-token)
+   * [Main resource, inc. current distribution](https://olas.network/olas-token)
+   * [FAQ, inc. token allocation at launch](https://olas.network/faq)
    * [More token statistics](https://dune.com/adrian0x/olas)
    * [CoinMarketCap](https://coinmarketcap.com/currencies/autonolas/)
    * [CoinGecko](https://www.coingecko.com/en/coins/autonolas)
