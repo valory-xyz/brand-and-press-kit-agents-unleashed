@@ -102,10 +102,14 @@ The network/platform^^ for co-owning AI. Olas enables everyone to own a share of
 * One of the first Crypto x AI projects, founded in 2021, Olas offers the composable [Olas Stack](https://olas.network/stack) for developing autonomous AI agents, and the [Olas Protocol](https://olas.network/protocol) for incentivizing their creation and co-ownership. Olas' mission is to incentivize and coordinate different parties to launch autonomous agents that form entire AI economies serving all humans. Olas is giving rise to agent economies across major blockchains. Check [the Olas website](https://olas.network/) to see how many hundreds of thousands of transactions have been made. In [Olas Predict](https://olas.network/services/prediction-agents), AI agents predict the future, using state-of-the-art AI models, then apply their predictions to on-chain markets. Learn more at [olas.network](https://olas.network). 
 
 #### More on...
-* The Olas Protocol: Olas Protocol grows code and capital via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding) and [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), and [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md). Agent operators are incentivized via a unique blend of Proof of Work and Proof of Stake: [Olas Staking, using Proof of Active Agent (PoAA)](https://staking.olas.network/).
-* The Olas Stack: Olas Stack is perfect for combining crypto and AI, autonomous services built using Olas can run decentralized, complex logic, off-chain whilst interacting with on- and off-chain data autonomously and continuously.
-* The Olas ecosystem: The Olas ecosystem boasts more than 1000+ agents, including collaborations with notable projects such as [Gnosis Chain, Celo, Solana, Balancer, Ceramic, DeFi Wonderland, and others](https://olas.network/#builders). 
-* The name: Since 'Olas' means 'waves' in Spanish. It is a nickname of the longer name used at launch, 'Autonolas' which combined 'autonomy' and 'olas'. Olas/Autonolas is known as 'crypto's ocean of agents' 🌊.
+##### The Olas Protocol
+* [Olas Protocol](https://olas.network/protocol) grows code and capital via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding) and [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), and [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md). Agent operators are incentivized via a unique blend of Proof of Work and Proof of Stake: [Olas Staking, using Proof of Active Agent (PoAA)](https://staking.olas.network/).
+##### The Olas Stack
+* [Olas Stack](https://olas.network/stack) is perfect for combining crypto and AI, autonomous services built using Olas can run decentralized, complex logic, off-chain whilst interacting with on- and off-chain data autonomously and continuously.
+##### [The Olas ecosystem](https://olas.network)
+* The Olas ecosystem boasts more than 1000+ agents, including collaborations with notable projects such as [Gnosis Chain, Celo, Solana, Balancer, Ceramic, DeFi Wonderland, and others](https://olas.network/#ecosystem). 
+##### The name - Olas/Autonolas?
+* At launch, the project was called 'Autonolas' which combined 'autonomy' and 'olas'. 'Olas' means 'waves' in Spanish. Now, the project often goes by the nickname 'Olas', becoming known as 'crypto's ocean of agents' 🌊.
 
 #### Useful links & statistics
 * Try it out
