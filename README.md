@@ -112,21 +112,21 @@ The network/platform^^ for co-owning AI. Olas enables everyone to own a share of
 * At launch, the project was called 'Autonolas' which combined 'autonomy' and 'olas'. 'Olas' means 'waves' in Spanish. Now, the project often goes by the nickname 'Olas', becoming known as 'crypto's ocean of agents' 🌊.
 
 #### Useful links & statistics
-* Try it out
+##### Try it out
   * [Run your own agent](https://olas.network/operate) in minutes, via the simple desktop app, Pearl.
-* Statistics
+##### Statistics
   * [Main statistics](http://olas.network)
-  * [Token statistics](https://olas.network/agent-economies/predict)
+  * [Token statistics](https://olas.network/olas-token)
   * [Agent economy statistics - Predict](https://olas.network/agent-economies/predict)
   * [More ecosystem statistics](https://dune.com/adrian0x/autonolas-ecosystem-activity)
- * Learn more
+##### Learn more
    * [Main site](https://olas.network)
    * [Learn about the different ways to use Olas](https://olas.network/#get-involved)
    * [Read the whitepapers](https://olas.network/whitepaper) (including the general whitepaper, summary whitepaper, tokenomics whitepaper and staking whitepaper)
    * Public progress updates
      * [Weekly](https://x.com/autonolas/status/1676576697863507968)
      * Quarterly (coming soon)
- * Token
+##### Token links
    * [Main resource](https://olas.network/olas-token)
    * [More token statistics](https://dune.com/adrian0x/olas)
    * [CoinMarketCap](https://coinmarketcap.com/currencies/autonolas/)
@@ -134,11 +134,11 @@ The network/platform^^ for co-owning AI. Olas enables everyone to own a share of
    * Convenience API endpoints for OLAS supply:
      * [Total Supply](https://api.olas.autonolas.tech/total_supply)
      * [Circulating Supply](https://api.olas.autonolas.tech/circulating_supply)
-  * Socials
-    * [Community hub inc. co-owned AI marketing tool](https://contribute.olas.network)
-    * [Twitter](https://twitter/autonolas)
-    * [Discord](https://discord.com/invite/z2PT65jKqQ)
-    * [Youtube](https://www.youtube.com/@autonolas)
+##### Social links
+  * [Community hub inc. co-owned AI marketing tool](https://contribute.olas.network)
+  * [Twitter](https://twitter/autonolas)
+  * [Discord](https://discord.com/invite/z2PT65jKqQ)
+  * [Youtube](https://www.youtube.com/@autonolas)
 
 #### Video Appearances 
 * [Recent video appearances](https://olas.network/videos)
