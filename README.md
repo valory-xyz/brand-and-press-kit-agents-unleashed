@@ -93,27 +93,51 @@ The term “Marks” includes anything the Olas DAO uses to identify the Olas DA
 When mentioning the Olas DAO or its members or contributors in your press materials, it is kindly asked that you review the following information.
 
 ### Key information
-#### Introduction
-* Summary: Olas is the network/platform^^ for co-owning AI. Olas enables everyone to own a share of AI, specifically autonomous agents. One of the first Crypto x AI projects, founded in 2021, Olas offers the composable [Olas Stack](https://olas.network/stack) for developing autonomous AI agents, and the [Olas Protocol](https://olas.network/protocol) for incentivizing their creation and co-ownership. Olas' mission is to incentivize and coordinate different parties to launch autonomous agents that form entire AI economies serving all humans. Olas is giving rise to agent economies across major blockchains. Check [the Olas website](https://olas.network/) to see how many hundreds of thousands of transactions have been made. In [Olas Predict](https://olas.network/services/prediction-agents), AI agents predict the future, using state-of-the-art AI models, then apply their predictions to on-chain markets. Learn more at [olas.network](https://olas.network). 
-
-* More on the Olas Protocol: Olas Protocol grows code and capital via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding) and [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), and [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md). Agent operators are incentivized via a unique blend of Proof of Work and Proof of Stake: [Olas Staking, using Proof of Active Agent (PoAA)](https://staking.olas.network/).
-* More on the Olas Stack: Olas Stack is perfect for combining crypto and AI, autonomous services built using Olas can run decentralized, complex logic, off-chain whilst interacting with on- and off-chain data autonomously and continuously.
-* More on the Olas ecosystem: The Olas ecosystem boasts more than 430 services, including collaborations with notable projects such as [Gnosis Chain, Celo, Solana, Balancer, Ceramic, DeFi Wonderland, and others](https://olas.network/#builders). 
-* More on the name: Since 'Olas' means 'waves' in Spanish, it is sometimes known as 'crypto's ocean of services' 🌊.
+#### One liner
+The network/platform^^ for co-owning AI. Olas enables everyone to own a share of AI, specifically autonomous agents.
 
 ^^ 'Network' tends to be used for a web3 audience, and 'platform' for a web2 audience.
 
-#### Useful links & statistics
-* [Olas](http://olas.network)
-  * [See ecosystem statistics here](https://dune.com/adrian0x/autonolas-ecosystem-activity) 
-  * [See token statistics here](https://dune.com/adrian0x/olas)
-  * [See builders here](https://olas.network/#builders)
-  * [See the community hub inc. co-owned AI marketing tool here](https://contribute.olas.network)
-  * [Follow on Twitter here](https://twitter/autonolas)
-  * [Read the docs here](https://docs.autonolas.network/)
+#### Boilerplate
+* One of the first Crypto x AI projects, founded in 2021, Olas offers the composable [Olas Stack](https://olas.network/stack) for developing autonomous AI agents, and the [Olas Protocol](https://olas.network/protocol) for incentivizing their creation and co-ownership. Olas' mission is to incentivize and coordinate different parties to launch autonomous agents that form entire AI economies serving all humans. Olas is giving rise to agent economies across major blockchains. Check [the Olas website](https://olas.network/) to see how many hundreds of thousands of transactions have been made. In [Olas Predict](https://olas.network/services/prediction-agents), AI agents predict the future, using state-of-the-art AI models, then apply their predictions to on-chain markets. Learn more at [olas.network](https://olas.network). 
 
-#### Media Appearances 
-* [A comprehensive list of recent media appearances](https://olas.network/#resources)
+#### More on...
+* The Olas Protocol: Olas Protocol grows code and capital via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding) and [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), and [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md). Agent operators are incentivized via a unique blend of Proof of Work and Proof of Stake: [Olas Staking, using Proof of Active Agent (PoAA)](https://staking.olas.network/).
+* The Olas Stack: Olas Stack is perfect for combining crypto and AI, autonomous services built using Olas can run decentralized, complex logic, off-chain whilst interacting with on- and off-chain data autonomously and continuously.
+* The Olas ecosystem: The Olas ecosystem boasts more than 1000+ agents, including collaborations with notable projects such as [Gnosis Chain, Celo, Solana, Balancer, Ceramic, DeFi Wonderland, and others](https://olas.network/#builders). 
+* The name: Since 'Olas' means 'waves' in Spanish, it is sometimes known as 'crypto's ocean of services' 🌊.
+
+#### Useful links & statistics
+* Try it out
+  * [Run your own agent](https://olas.network/operate) in minutes, via the simple desktop app, Pearl.
+* Statistics
+  * [Main statistics](http://olas.network)
+  * [Token statistics](https://olas.network/agent-economies/predict)
+  * [Agent economy statistics - Predict](https://olas.network/agent-economies/predict)
+  * [More ecosystem statistics](https://dune.com/adrian0x/autonolas-ecosystem-activity)
+ * Learn more
+   * [Main site](https://olas.network)
+   * [Learn about the different ways to use Olas](https://olas.network/#get-involved)
+   * [Read the whitepapers](https://olas.network/whitepaper) (including the general whitepaper, summary whitepaper, tokenomics whitepaper and staking whitepaper)
+   * Public progress updates
+     * [Weekly](https://x.com/autonolas/status/1676576697863507968)
+     * Quarterly (coming soon)
+ * Token
+   * [Main resource](https://olas.network/olas-token)
+   * [More token statistics](https://dune.com/adrian0x/olas)
+   * [CoinMarketCap](https://coinmarketcap.com/currencies/autonolas/)
+   * [CoinGecko](https://www.coingecko.com/en/coins/autonolas)
+   * Convenience API endpoints for OLAS supply:
+     * [Total Supply](https://api.olas.autonolas.tech/total_supply)
+     * [Circulating Supply](https://api.olas.autonolas.tech/circulating_supply)
+  * Socials
+    * [Community hub inc. co-owned AI marketing tool](https://contribute.olas.network)
+    * [Twitter](https://twitter/autonolas)
+    * [Discord](https://discord.com/invite/z2PT65jKqQ)
+    * [Youtube](https://www.youtube.com/@autonolas)
+
+#### Video Appearances 
+* [Recent video appearances](https://olas.network/videos)
 
 ## Further Questions
 * If you have any questions about this Press Kit, please reach out in the [Olas Discord](https://discord.com/invite/z2PT65jKqQ).
