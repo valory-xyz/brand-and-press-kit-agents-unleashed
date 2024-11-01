@@ -127,7 +127,7 @@ The network/platform^^ for co-owning AI. Olas enables everyone to own a share of
    * [Read the whitepapers](https://olas.network/whitepaper) (including the general whitepaper, summary whitepaper, tokenomics whitepaper and staking whitepaper)
    * Public progress updates
      * [Weekly](https://x.com/autonolas/status/1676576697863507968)
-     * Quarterly (coming soon)
+     * [Quarterly](https://olas.network/quarterly-updates)
 ##### Token links
    * [Main resource, inc. current distribution](https://olas.network/olas-token)
    * [FAQ, inc. token allocation at launch](https://olas.network/faq)
