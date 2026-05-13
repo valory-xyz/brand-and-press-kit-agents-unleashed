@@ -23,7 +23,7 @@ Do not:
 
 ### Logos 
 By using the Agents Unleashed Logo(s) you are agreeing to its/their Usage Terms (see below).
-* [Download the logos here](https://drive.google.com/drive/folders/1F4__7lYgPDMOOShRn9eKrCZdgdejBmeQ?usp=drive_link)
+* [Download the logos here](https://github.com/valory-xyz/brand-and-press-kit-agents-unleashed/releases/download/v1.0/agents-unleashed-podcast-brand-assets.zip)
 
 | Do | Do not | 
 |---|---|
@@ -55,15 +55,15 @@ Agents Unleashed is hosted by [Olas](https://github.com/contentwillvary/brand-an
 #### Useful links & statistics
 ##### Catch up on the in-person events
   * [Main link](https://olas.network/agents-unleashed/)
-  * [Twitter](https://twitter/autonolas)
-  * [YouTube](https://www.youtube.com/autonolas)
+  * [Twitter](https://x.com/autonolas)
+  * [YouTube](https://www.youtube.com/@autonolas)
 ##### Catch up on the podcast
   * [Main link](https://lnk.bio/agentsunleashedpod)
   * [YouTube](https://www.youtube.com/playlist?list=PLoP4p0r-X94r1FA7yoOwRqvOjiYGSNQoj)
   * [Spotify](https://open.spotify.com/show/5AE6WkEzBupmguk5RRpcZi?si=vN45QQPwTmCw-PDP-sd0gg)
   * [Apple Podcasts](https://podcasts.apple.com/podcast/agents-unleashed/id1812693005)
   * [LinkedIn](https://www.linkedin.com/showcase/unleash-the-agents/)
-  * [Twitter](https://twitter/autonolas)
+  * [Twitter](https://x.com/autonolas)
 
 ## Further Questions
 * If you have any questions about Agents Unleashed or this Press Kit, please reach out [here](mailto:thomas@valory.xyz).
